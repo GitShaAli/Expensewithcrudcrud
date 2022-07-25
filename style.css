@@ -1,0 +1,42 @@
+body{
+    background-image: url("calc-1920x1080-1.png");
+}
+h2{
+    text-align: center;
+}
+input{
+    padding: 15px;
+    border-radius: 15px 50px;
+}
+div{
+    background-color: #2a4e4a;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px 50px;
+    box-shadow: 5px 4px 8px 5px black;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+  
+li {
+    /* width: 70%; */
+    padding: 10px;
+    font-size: large;
+    background: #6a8f8f;
+    margin: 5px;
+    border-radius: 15px 50px;
+}
+button{
+    float: right;
+    /* background-color: #4f938b; */
+    background: #69c4ba;
+    color: rgb(136, 13, 13);
+    
+}
